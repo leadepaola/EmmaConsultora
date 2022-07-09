@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="assets/css/bootstrap.min.css?2021_5_28_0050">
 
   <!-- Style -->
-  <link rel="stylesheet" href="assets/css/styles.css?2022_7_09_1832">
+  <link rel="stylesheet" href="assets/css/styles.css?2022_7_09_1840">
 
   <!-- Google fonts -->
   <link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,600" rel="stylesheet">
