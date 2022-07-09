@@ -6,13 +6,9 @@
 <style>
 	.pausa_section{
 
-		position: none; 
+		position: fixed; 
 
-		<?php 
-			//Variable declarada en mensualidad/verificar_dias.php
-			echo $pausa_position_img;
-
-		?>
+		
 
 		z-index: 99999;
 
@@ -21,7 +17,13 @@
 
 		background-color: black;
 
-		display: flex;
+		
+		<?php 
+			//Variable declarada en mensualidad/verificar_dias.php
+			echo $pausa_position_img;
+
+		?>
+		
 		align-items: center;
 		justify-content: center;
 	}	
