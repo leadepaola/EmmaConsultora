@@ -30,12 +30,14 @@
 
 	if ($fila_dias_disp['cantidad']<=0) {
 		
-		$pausa_position_img= "display: none;";
+		//mostrarlo
+		$pausa_position_img= "display: flex;";
 
 	}
 	else{
 
-		$pausa_position_img= "display: flex;";
+		//ocultarlo
+		$pausa_position_img= "display: none;";
 		
 	}
 
