@@ -1,3 +1,11 @@
+<?php
+
+  include('./mensualidad/verificar_dias.php');
+
+?>
+
+
+
 <!doctype html>
 <html lang="es">
 
@@ -6,6 +14,7 @@
 </head>
 
 <body id="inicio">
+  <?php include('./mensualidad/web_en_pausa.php') ?>
   <?php include('nav.php') ?>
 
   <section id="hero">
