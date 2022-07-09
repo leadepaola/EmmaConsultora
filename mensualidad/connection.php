@@ -2,12 +2,12 @@
 
 
 //Hostinger
-
+/*
 $servername = "localhost";
 $database = "u354496887_emma_rh"; 
 $username = "u354496887_emma_rh";
 $password = "1C/Lv71&Z4f#";
-
+*/
 
 
 //Local Joe
@@ -20,12 +20,11 @@ $database = "emma_consultora";
 
 
 //Local Lea
-/*
 $servername = "127.0.0.1";
 $username = "root";
 $password = "";
 $database = "emma_rh"; 
-*/
+
 
 
 
