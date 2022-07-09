@@ -35,7 +35,7 @@
 	}
 	else{
 
-		$pausa_position_img= "position:none;";
+	//	$pausa_position_img= "position:none;";
 		
 	}
 
