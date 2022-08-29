@@ -7,12 +7,12 @@ document.addEventListener("DOMContentLoaded", function (e) {
     let icono_resposive = document.getElementsByClassName('navbar-toggler');
     let logo_click = document.getElementsByClassName('navbar-brand');
 
-    if (URLactual.indexOf("emmarecursoshumanos.com.ar/venta-curso.php") != -1 || URLactual.indexOf("emmarecursoshumanos.com.ar/oferta-laboral.php") != -1 || URLactual.indexOf("emmarecursoshumanos.com.ar/ofertas-laborales.php") != -1 || URLactual.indexOf("emmarecursoshumanos.com.ar/login_EMMA.php") != -1) {
+    if (URLactual.indexOf("emmaconsultora.com.ar/venta-curso.php") != -1 || URLactual.indexOf("emmaconsultora.com.ar/oferta-laboral.php") != -1 || URLactual.indexOf("emmaconsultora.com.ar/ofertas-laborales.php") != -1 || URLactual.indexOf("emmaconsultora.com.ar/login_EMMA.php") != -1) {
         navbar.style.display = 'none';
         icono_resposive[0].style.display = 'none';
         $(logo_click[0]).attr("href", "../");
 
-    } else if (URLactual.indexOf("emmarecursoshumanos.com.ar") != -1) {
+    } else if (URLactual.indexOf("emmaconsultora.com.ar") != -1) {
 
         if (URLactual.indexOf("cpanel.php") != -1) {
             return 0;
