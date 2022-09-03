@@ -4,7 +4,7 @@
         <!-- <h3>EMMA</h3> -->
         <p>Contactanos por nuestras redes</p>
         <ul class="socials">
-            <li><a href="https://www.linkedin.com/in/emma-consultoracapacitacion-434a93241/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/emma-consultoracapacitacion-434a93241/" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
             <li><a href="https://www.facebook.com/emmaconsultora" target="_blank"><i class="fa fa-facebook"></i></a></li>
             <li><a href="https://wa.me/+5491125215377?text=Hola, quiero hacer una consulta" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
             <li><a href="https://www.instagram.com/consultoraemma" target="_blank"><i class="fab fa-instagram"></i>
