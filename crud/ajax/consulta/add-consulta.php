@@ -8,7 +8,7 @@
         $telefono = trim($_POST['telefono']);
         $mensaje = trim($_POST['mensaje']);
 
-        $to = "emmatalentos@gmail.com";
+        $to = "emmatalentos@gmail.com, ebabich@emmaconsultora.com, msotelo@emmaconsultora.com, info@emmaconsultora.com";
         $subject = "Tienen una consulta en la web - emmarecursoshumanos.com.ar";
         
         $message = $mensaje."\n\n\n".
