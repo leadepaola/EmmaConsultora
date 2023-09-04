@@ -140,7 +140,7 @@
           </div>
           <div class="contenido">
             <i class="far fa-envelope icono-info"></i>
-            <p>emmatalentos@gmail.com</p>
+            <p>info@emmaconsultora</p>
           </div>
           <div class="contenido">
             <i class="fas fa-phone icono-info"></i>
