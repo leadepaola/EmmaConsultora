@@ -8,7 +8,7 @@
             <li><a href="https://www.facebook.com/emmaconsultora" target="_blank"><i class="fa fa-facebook"></i></a></li>
             <li><a href="https://wa.me/+5491125215377?text=Hola, quiero hacer una consulta" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
             <li><a href="https://www.instagram.com/consultoraemma" target="_blank"><i class="fab fa-instagram"></i>
-            <li><a href="mailto:emmatalentos@gmail.com?Subject=Hola,%20quiero%20hacer%20una%20consulta"><i class="far fa-envelope"></i></a></li>
+            <li><a href="mailto:info@emmaconsultora.com?Subject=Hola,%20quiero%20hacer%20una%20consulta"><i class="far fa-envelope"></i></a></li>
         </ul>
     </div>
     <div class="footer-bottom">
