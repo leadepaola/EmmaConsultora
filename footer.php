@@ -12,7 +12,7 @@
         </ul>
     </div>
     <div class="footer-bottom">
-        <p>copyright &copy;2021, designed by <a href="https://www.lowcostweb.com.ar/"  target="_blank"><span>LowCostWeb</span></a></p>
+        <p>copyright &copy;2023, designed by <a href="https://www.lowcostweb.com.ar/"  target="_blank"><span>LowCostWeb</span></a></p>
     </div>
 </footer>
 
