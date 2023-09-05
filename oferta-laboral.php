@@ -207,7 +207,8 @@ if (isset($_GET['id']) && !empty($_GET['id'])) {
                         datosForm.append("email", $email);
                         datosForm.append("telefono", $telefono);
                         datosForm.append("mensaje", $mensaje);
-                        // console.log(archivo.name);
+                        datosForm.append("nombre_empleo", $titulo);
+
                         $('.error-nombre').empty();
                         $('.error-email').empty();
                         $('.error-telefono').empty();
