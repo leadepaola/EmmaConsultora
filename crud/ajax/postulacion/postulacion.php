@@ -2,6 +2,8 @@
     include('../../../functions/connection.php');
     
         if(isset($_FILES["archivo"]) && isset($_POST["nombre"]) && isset($_POST["email"]) && isset($_POST["telefono"]) && isset($_POST["mensaje"]) && isset($_POST["id_empleo"]) && isset($_POST["nombre_empleo"])){
+            var_dump($_POST);
+            die();
             $archivo = trim(mysqli_real_escape_string($mysqli, $_FILES["archivo"]["name"]));
             $carpeta = 'archivos/';
             $id_postulacion= NULL;
